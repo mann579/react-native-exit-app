@@ -1,5 +1,5 @@
 {
-  "name": "react-native-exit-app",
+  "name": "react-native-exit",
   "version": "2.0.1",
   "description": "Exit,close,kill,shutdown app completely for React Native on iOS and Android.",
   "main": "index.js",
